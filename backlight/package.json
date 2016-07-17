@@ -1,0 +1,24 @@
+{
+    "author": "liam@mcmains.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "backlight",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Backlight",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "208ac6b4-9db7-4500-989b-d71d0823b12b",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
